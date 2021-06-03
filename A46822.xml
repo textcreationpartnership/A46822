@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caveat or information, for informers, witnesses, and judges (Not printed till now) useful for this present time of reformation; delivered in a sermon at Preston in Lancashire, the first Wednesday in July, 1647. before an assembly of divines, and deputie-lieutenants. By Henry Jenney Mr. of Arts, now vicar of St. Michaels in the said county.</title>
+            <author>Jenney, Henry, b. 1607 or 8.</author>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46822</idno><idno type="EEBO-CITATION">99828291</idno>
+  <idno type="VID">32718</idno>
+  <idno type="EEBO-PROQUEST">2240902950</idno>
+  
+            <idno type="STC">Wing J668A</idno>
+            <idno type="STC">ESTC R216564</idno>
+            <idno type="PROQUEST">99828291</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828291e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32718)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1950:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caveat or information, for informers, witnesses, and judges (Not printed till now) useful for this present time of reformation; delivered in a sermon at Preston in Lancashire, the first Wednesday in July, 1647. before an assembly of divines, and deputie-lieutenants. By Henry Jenney Mr. of Arts, now vicar of St. Michaels in the said county.</title>
+                  <author>Jenney, Henry, b. 1607 or 8.</author>
+               </titleStmt>
+               <extent>[8], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by S.G. for Tho. Firby neer Grayes-Inne Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Informers, .. judges" are bracketed together on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32718:1"/>
+            <p>A CAVEAT OR INFORMATION, For <hi>Informers, Witnesses, and Judges.</hi>
+            </p>
+            <p>(Not printed till now) useful for this present time of <hi>REFORMATION;</hi>
+            </p>
+            <p>Delivered in a Sermon at <hi>Preston</hi> in <hi>Lancashire,</hi> the first Wednesday in <hi>July,</hi> 1647. before an Assembly of <hi>Divines,</hi> and <hi>Deputie-Lieutenants.</hi>
+            </p>
+            <p>By <hi>Henry Jenney</hi> Mr. of Arts, now Vicar of St. <hi>Michaels</hi> in the said County.</p>
+            <q>
+               <p>Non vult te Deus, si fortè videris peccatum fratris tui continuò evolare ad publicum, &amp; proclamare passim, &amp; draulgare aliena peccata, quod esset utique non corrigentis, sedpotius infamanis, solus inquit inter te &amp; ipsum corripe eum. Vti enim servari sibi pudoris mysterium viderit ille qui peccat, servabit &amp; ipse <hi>emendationis pu<g ref="char:EOLhyphen"/>dorem,</hi> si vero diffamavi se viderit, illicò ad denegandum impudenter convertetur, ut non solum non emendaveris peccatum, sed &amp; duplicaveris.</p>
+               <bibl>
+                  <hi>Origen in Mat.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Nihil probat spiritualem virum, sicut peccati alieni tractatio, quum liberationem ejus potiùs quam insultationem, potiùsque auxilia quam convitia meditatur, &amp; quantum facultas tribuit, suscipit.</p>
+               <bibl>
+                  <hi>Aug. in Ep. ad Gal.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Odio habeantur peccata <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o non homines; corripiantur tumidi, tollerentur infirmi, &amp; qu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d severiùs castigat, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>esse est, non saevientis plectatur animo, sed medentis.</p>
+               <bibl>
+                  <hi>Lev.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. G.</hi> for <hi>Tho. Firby</hi> neer <hi>Grayes-Inne</hi> Gate. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32718:2"/>
+            <pb facs="tcp:32718:2"/>
+            <head>TO THE RIGHT HONOURABLE THE Lord Lambert &amp;c.</head>
+            <opener>
+               <salute>RIGHT HONOVRABLE.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough neither my person nor con<g ref="char:EOLhyphen"/>dition can any way merit ought at your <hi>Lordships</hi> hands, yet the high and undeserved favours I have alrea<g ref="char:EOLhyphen"/>dy received, and the benign aspect which your <hi>Honour</hi> hath been alwayes observed to afford un<g ref="char:EOLhyphen"/>to the <hi>Devoites</hi> of such as have attempted to do but the meanest good service in Gods Church and Common-wealth; together with the <hi>Can<g ref="char:EOLhyphen"/>dor</hi> and <hi>sweetness</hi> which accompanies all your actions, rendring you precious to all that know you; hath thus far emboldened me in all humili<g ref="char:EOLhyphen"/>ty to crave, that<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. 1 Cor. 1.22.</note>
+               <hi>This same foolishness of preaching</hi>
+               <pb facs="tcp:32718:3"/>here inscribed, which notwithstanding is the wis<g ref="char:EOLhyphen"/>dom and power of God to salvation, may march under your <hi>Lordships name,</hi> as under <hi>Ajax</hi> his shield, into the view of the World; which fa<g ref="char:EOLhyphen"/>vour if I shall happily obtain, then as the Mari<g ref="char:EOLhyphen"/>ners who carried with them <hi>Caesar</hi> and his fortunes; or as the Souldiers that advanced under the vi<g ref="char:EOLhyphen"/>ctorious eye and protection of <hi>Titus,</hi> son to <hi>Ves<g ref="char:EOLhyphen"/>pasiou;</hi> I doubt not, mangre all malice, pre<g ref="char:EOLhyphen"/>judice and opposition, but to become in this pre<g ref="char:EOLhyphen"/>sent service both succesfull and prosperous; For which my instant requests shall not cease to be presented before the Throne of <hi>Grace,</hi> that the spirit of <hi>Magnanimity,</hi> wisdom, and understanding may still rest upon your Immortall soul, and so direct your <hi>Honour</hi> in all your grave, and great imployments, for the common good and Church of <hi>God here,</hi> that in the end, he may receive you out of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, into his Church triumphant, the place of eternall rest and Glory.</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordships most humble,<lb/> and most devoted, of all<lb/> those that honour you,<lb/> Hen. Jenney.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32718:3"/>
+            <head>To the Honourable Major Gen. <hi>Worsley,</hi> Col. <hi>West,</hi> Ma. <hi>Robinson,</hi> and the rest of the Commissioners appointed by his Highness for <hi>Lancashire.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>ALthough no doubt you have already received abundant satisfaction for your preparation to the weighty work of Reformation in hand, by an <hi>Eloquent Apollos,</hi>
+               <note place="margin">
+                  <hi>Mr.</hi> Geer</note> a man so mighty in the word of God, yet I hope it will not be a work altogether superfluons, to put this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (though so plain) into your hands, for the help sometimes of your memory, if it may not serve at present, as a Card or Compass whereby to steer your course in the current of your weighty affairs. To govern well was ever accounted <hi>Ars artium,</hi> and to judge aright now at this time especially, <hi>De rebus &amp; person is Ecclesiasticis,</hi> I fear will prove a matter of no small difficulty. But I hope that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who searcheth all secrets, will inable you with his discerning Spirit to uncase such Hypocrites (if any such there be) as under a pretext of zeal to this your design, may peradventure take advantage to effect their own long-plotted sinister ends, in the defamation, and destruction of their innocent Brethren.</p>
+            <p>What Salt soever they shall cause to be brought before you,<note place="margin">Mat. 5.13.</note> made foul by some accidentall fall, or their fowler tongues; yet having not lost all its savour, let it not be cast out to be trodden under their feet; but rather as good <hi>Chymists</hi> endeavour its recovery and preservation, that out of it you may extract such a {salt} as being well separated from its <hi>Terra damnata,</hi> may serve
+<pb facs="tcp:32718:4"/>again to absterge the foul mouths, and alay the boyling heat of their feverish hearts, that are now grown frantick, and even mad against the poor disconsolate Church of God.</p>
+            <p>
+               <hi>This present,</hi> I cannot say much of it, for there is not much said in it. However, be pleased to deign it your acceptance, if not for the offerer, yet for the oblations sake, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) for it is a work holding forth such words as shall judge us all, even Judges,<note place="margin">1 Thes. 5.13. Joh. 12.48.</note> and all, at the last day. Now the Lord grant you may so pull down, and set up, so change, reform, and confirm; so purge and refine, that if it be possible, you may make a <hi>Coelum terrae,</hi> and so become your selves <hi>Rutilantia Sydera in seculo seculorum;</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>For which shall be poured out the in<g ref="char:EOLhyphen"/>cessant<lb/> devotions of your unworthy,<lb/> but most humble Orator,<lb/> HEN. JENNEY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32718:4"/>
+            <head>TO THE READER</head>
+            <p>THou may'st perhaps admire, that I should be so hardy, as to expose these my <hi>Primitias</hi> (such <hi>jejune</hi> Meditations) to the publick view, in this so criticall an Age, but the reasons are ready; He that hath impartially judg'd himself, shall not be judged of the Lord, and why then should he fear the Judg<g ref="char:EOLhyphen"/>ments of men? The meanest talent must not be hid, but be accompted for, if not improv'd; And if this be so censorious a time, it hath the more need of a moderation, and rectification.</p>
+            <p>When some, more able, through carnall policie will not, or slavish fear, dare not administer a word in due season, God, who ordaineth strength out of the mouths of Babes and sucklings, may inable these (though weak) endeavours to become effectuall means, for his own Glory and his Churches good, in such a time of need.</p>
+            <pb facs="tcp:32718:5"/>
+            <p> The truly judi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous (I am sure) will not prejudi<g ref="char:EOLhyphen"/>cate, they are fool-bolts that are so soon shot; And he that is a <hi>Nathanael,</hi> and sensible of his own faylings, will not be over-rigid against others; They are the Hypocrits, that are the unmercifull Iudges. What thou art, or mean'st to do, I know not, but <hi>Dilige, &amp; fac quid voles,</hi> it shall be kindly taken by him, who is truly studious of thine eternall good.</p>
+            <closer>
+               <signed>H. Jenney.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:32718:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EXOD. 23.1, 2.</hi>
+                  </bibl>
+                  <p>Thou shalt not raise a false report, put not thy hand with the wicked, to be an unrighteous witness.</p>
+                  <p>Thou shalt not follow a multitude to do evill, neither shalt thou speak in a cause, to decline after many to wrest Judgement.</p>
+               </q>
+            </epigraph>
+            <epigraph>
+               <bibl>
+                  <hi>Or, according to another translation, thus,</hi>
+               </bibl>
+               <q>
+                  <p>Thou shalt not receive a false tale, neither shalt thou put thine hand with the wicked to be a false witness.— Thou shalt not follow a multitude to do evill, neither agree in controversie to decline after many, and overthrow the Truth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">N</seg>Ot to trifle away time, which I know is pre<g ref="char:EOLhyphen"/>cious, I will not trouble you with any need<g ref="char:EOLhyphen"/>less Apologie for my Call to this work, but come immediately to the work it self.</p>
+            <p>Each verse of my Text, presents to your serious consideration, a double dehortation, to complete your preparation for your proceedings in the weighty business in hand. The two former seem more particular<g ref="char:EOLhyphen"/>ly to concern you that are <hi>Witnesses</hi> and <hi>Informers</hi> against your neighbours, <hi>Thou shalt not raise a false report, put not thy hand with the wicked, to be an unrighteous Witness.</hi> The other two belong to you that are <hi>Judges</hi> and <hi>Censors</hi> of the matters, <hi>Thou shalt not follow a multitude to do evill, neither shalt thou speak in a cause, to decline after many, to wrest Judge<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>Here are three sorts of men admonished,
+<list>
+                  <item>
+                     <hi>Informers.</hi>
+                  </item>
+                  <item>
+                     <hi>Witnesses.</hi>
+                  </item>
+                  <item>
+                     <hi>Judges.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The first, that they make no false report or accusation.</p>
+            <p>The second, that they do not swear, to confirm the same.</p>
+            <p>The Last, t<gap reason="illegible: torn page" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t they do not joyn together to do evill, that they be not partiall, and so wrest Judgement to the overthrow of the truth.</p>
+            <pb n="2" facs="tcp:32718:6"/>
+            <p> This is the charge I am to give you; The Lord inable us all to discharge it to his Glory, the reformation, not destruction (if it be his will) of any that have sinned, the vindication of the truth, &amp; all such as are wrongfully ac<g ref="char:EOLhyphen"/>cused. And first I begin with <hi>Informers,</hi> and their false reperts, or accusations, they being the beginners of mis<g ref="char:EOLhyphen"/>chief, (as their Father the devill was) in the first words of my Text, <hi>Thou shalt not raise a false report.</hi> The sinne of false accusation, scandall, or defamation, you may find it forbidden, and condemned by Law and Gospell both; for the first, see <hi>Levit.</hi> 19.16. <hi>Thou shalt not go up and down as a tale-bearer among thy people; neither shalt thou stand a<g ref="char:EOLhyphen"/>gainst the blood of thy neighbour: I am the Lord.</hi> A false re<g ref="char:EOLhyphen"/>port is a degree of Murder, and Murder is a sin that cries aloud in the ears of God for vengeance (as <hi>Abel</hi>'s did a<g ref="char:EOLhyphen"/>gainst <hi>Cain</hi>) it is pitty he should escape it, that hunts af<g ref="char:EOLhyphen"/>ter bloud, while he hunts after evill reports, and travels up and down, to gather up defamations, and false accu<g ref="char:EOLhyphen"/>sations against his neighbour, to deprive him of his live<g ref="char:EOLhyphen"/>lyhood, and of that which is more precious than life it self, (to wit) his good name.</p>
+            <p>But because perhaps the Law is accounted now by some, (that would be lawless) a thing of no use to belee<g ref="char:EOLhyphen"/>vers, see this sin forbidden, and condemned by the Go<g ref="char:EOLhyphen"/>spell it self, or rather by the Law again revealed in the Gospell,<note place="margin">Novum Test. in vet. fuit velarum, v<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. in Novo est Revelarum <hi>Basil. Mag.</hi>
+               </note>
+               <hi>Luk. 3.14.</hi> Our Saviour there chargeth the Soul<g ref="char:EOLhyphen"/>diers, <hi>to do violence to no man, neither to accuse any falsly,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, oppress no man by cunning calumny, or false accusation. I need not give you the etymon, or. originall of the word, you may see it in <hi>Plutarch</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>In 2 <hi>Tim.</hi> 3.3. The Apostle there foretels of such false accusers, and reckons them amongst the most desperate wretches that should come in the most dangerous times; he ranks them with blasphemers, traitors, self-lovers, despisers of good, contemners of God, covetous, and
+<pb n="3" facs="tcp:32718:6"/>truce-breakers; Nay, he couples the implacable and un<g ref="char:EOLhyphen"/>natural, peace-refusers, and false accusers together, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the devill is the Father of lies, and an old accuser, and such wretches as these, as they are of the same nature, so the Apostle calls them by the same name, both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Father and his Children, Satan and his Sons, <hi>Quam benè conveniunt nomina, &amp;c.</hi> they being both spitefull, and false-accusing adversaries, as the words in the originall import. It is a devilish thing then (you see) to be a false <hi>Informer,</hi> or accuser of the brethren, con<g ref="char:EOLhyphen"/>demned by Law and Gospell both. Let me therefore exhort all, even all that fear God, that love their own lives, and their neighbours, and that truly tender the safety of their precious souls, to beware of raising, or re<g ref="char:EOLhyphen"/>ceiving false reports, and malicious accusations; and that for these ensuing reasons. 1. because the Lord, that great Judge of quick and dead, forbids, and utterly condemns all such desperate wickedness, <hi>Thou shalt not raise a false report,</hi> how dar'st thou then raise a false accusation against thy neighbour, and so gainsay, or speak against thy God, who is able to blast thee with one breath of his mouth? who for one report, or murderous accusation against thy brother, is able to pay thee home with as many plagues, as he did rebellious <hi>Pharaoh</hi> for persecuting his chosen. Secondly, confider the heinousness and odiousness of such destructive tongues, they wound, and never make whole again saith <hi>Solomon,</hi> Prov. 26.22.<note place="margin">Psa. 52.2.</note> Such tongues are compared to fire brands, arrows, and death its self, which to such accursed <hi>Doegs,</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Aristot.</note> the most terrible of all terribles, and yet such desperate fools make it but a sport, thus to destroy themselves and others, <hi>Prov.</hi> 26.18. Nay, to sum up all in a word; such a tongue is set on fire from hell, and sets on fire the whole course of nature; yea, it is a world of wickedness, saith Saint <hi>James</hi> 3.6. and makes a world of wickedness, as we
+<pb n="4" facs="tcp:32718:7"/>see at this time, and as experienced <hi>Solomon</hi> tels us, <hi>Prov.</hi> 29.12. Saying, <hi>If a Ruler hearken to lies, all his servants are wicked;</hi> and therefore to avoid such evill, <hi>David</hi> vowes to cut off all privy slanderers of their neighhours, to give no entertainment to workers of deceit, and resolved, not to let a lyar so much as to tarry in his sight, <hi>Psal.</hi> 101. <hi>v.</hi> 5. &amp; 7. A resolution worthy of so wise and Godly a Prince, God grant it may be a president for every christian prince and Magistrate to imitate. For the contrary is a dange<g ref="char:EOLhyphen"/>rous and destroying evill, an evill not to be suffered, un<g ref="char:EOLhyphen"/>less we will hazard the ruine of all; we had need then to give it no liberty at all, but to beware of it, and to make it part of our Letany, (if we may make any Letany at all) with holy <hi>David</hi> saying, <hi>Psal.</hi> 120.2. <hi>Deliver my soul O Lord from lying lips, and from a deceitfull tongue.</hi> It is dangerous to the Receiver, dangerous to the accused, but most dan<g ref="char:EOLhyphen"/>gerous of all to the accusen himself, for it deptives him of an happy life, 1 <hi>Pet.</hi> 3.10. <hi>He that will love life, and see good dayes, let him refrain his tongue from evill, and his lips that they speak no guile, let him eschew evill and do goood, seek peace and ensue it,</hi> not make mischief and pursue it; nay, he doth not onely deprive himself of an happy life, but also of a live<g ref="char:EOLhyphen"/>ly faith, for he makes thereby, or at leastwise he makes it appear, that his Religion is in vain, <hi>Jam.</hi> 1.16. He may perhaps, to gratifie his malicious, or avaricious humour, bereave his brother of his naturall life, or worldly wealth, but then withall he wounds his own soul, and robs his soul and body both of their eternall inheritance in hea<g ref="char:EOLhyphen"/>ven, <hi>Prov.</hi> 18.7. He that hurteth his neighbour by his tongue, woundeth his own soul by his words; <hi>his mouth is his own destruction, and his lips are the snare of his soul.</hi> To be a false informer, a malicious accuser, and so a perniti<g ref="char:EOLhyphen"/>ouslyar, is the way to become a darling, a favourite to the devill; such are Spaniels to hunt up the devils game, and their own destruction both; The Apostle cals them Re<g ref="char:EOLhyphen"/>probates,
+<pb n="5" facs="tcp:32718:7"/>
+               <hi>Rom.</hi> 1.29. That shall never inherit the King<g ref="char:EOLhyphen"/>dome of grace here, nor of glory hereaf er, 1 <hi>Cor.</hi> 6.9, 10: <hi>Know ye not, that the unrighteous shall not inherit the King<g ref="char:EOLhyphen"/>dome of God? be not deceived,</hi> &amp;c. But stay, this is not all, for such a wretch he shall not onely sustain <hi>paenam damni,</hi> the loss of Bliss, but also suffer <hi>paenam sensus,</hi> the punish<g ref="char:EOLhyphen"/>ment of sense, punishment (I say) in that place where his torments shall be endless, <hi>Apocal.</hi> 21.7, 8. All lyars shall have their part in that lake, which burneth with fire and brimstone, which is the second. <hi>i.e.</hi> eternall death. But here now (me thinks) I see these accursed <hi>Hams, Doegs Achans</hi> and <hi>Ahitophels,</hi> laughing in their sleeves and say<g ref="char:EOLhyphen"/>ing, it is no matter what he saith, let us have our pleasures and desires here, and then let come, what will come, in the world to come. These politique fools, or madmen rather, are like to the <hi>Cardinall,</hi> who wished he might have a part of <hi>Paris,</hi> for his part in Paradise. Alas poor filly Atheists, full little do ye know the extremities of hell torments and tortures due to such damned <hi>Caitiffs,</hi> that thus sleightly account of them, and desperately ha<g ref="char:EOLhyphen"/>sten to them; but let not your wisdomes deceive your selves, your hell begins here, even in this life, your life will be worse than death, for such have no peace; There is no peace saith my God to the wicked; the God of truth hath said it, it is in vain for your deceitfull hearts, and lying tongues to deny it, <hi>Isa.</hi> 57. <hi>v. ult.</hi> Your lying tongues shall make you fall, and others to laugh you to seorn, <hi>Ps.</hi> 64.8. what did I say; make you fall? nay, fall to utter ruine, for a false witness shall utterly perish, <hi>Prov</hi> 21.28. believe it, it was not a fool that said it, If therefore thou lov'st thy life, have a care of thy slande<g ref="char:EOLhyphen"/>ring, and false accusing tongue In old time a slanderer by the Law, was to be branded on the cheek for infamy, as accursed <hi>Cain</hi> was mark'd for a murderer, It were good for the Commonwealth, and Church of God, if all such
+<pb n="6" facs="tcp:32718:8"/>miscreants might be so stigmatized, for their malicious aspersions cast upon the innocent, in these malignant and licentious times. If you will not for all this believe, and take heed of this destructive sin, look but into the <hi>Theater</hi> of Gods judgements upon malefactors in this kind. In 6. of <hi>Dan.</hi> see how the Princes, Governors, and Captains, conspired against the Prophet, by a malicious accusation to take away his life; and although their information was partly true, yet because it was done in envy and ma<g ref="char:EOLhyphen"/>lice, and not for Gods glory; see how God requites them with the like doom they had passed upon him, <hi>v.</hi> 23. In 1 <hi>Reg.</hi> 21. Observe there how Queen <hi>Jezeble,</hi> that quean, that accursed covetous hypocrite, under pretence of an holy fast, had plotted by a false accusation, to take away at once her innocent neighbours, both Land and Life; but for that fact, God made Dogs-meat of her, <hi>v.</hi> 23. And will no doubt of all such, as shall so fell themselves to work wickedness. In the story of <hi>Susanna</hi> we read, that two Elders (whether Lay, or Clergy, I need not say,) be<g ref="char:EOLhyphen"/>cause she would not yeeld to their unlawfull desires, went about by a false accusation to put her to death, but God rais'd up a <hi>Daniel</hi> to discover the devillish plot, to set the sackless free, and to make the false witnesses their own tongues to destroy themselves, <hi>v.</hi> 62. In <hi>Esther.</hi> 3. Am<g ref="char:EOLhyphen"/>bitious <hi>Haman,</hi> by a false information, and a monyed temptation, had prevailed with the King against the poor innocent Jewes to destroy them, but God discove<g ref="char:EOLhyphen"/>red his false and malicious plot, and withall paid him home in his own coyn, for he was hang'd on the same ac<g ref="char:EOLhyphen"/>cursed Tree, he had caused to be set up for others, as you may see in <hi>Esther</hi> 7.10. Thus while men to satisfie their pride, malice, and covetousness, are cunningly digging a pit for others, they fall into it themselves. God for<g ref="char:EOLhyphen"/>bid I should Judge any man, but if there be any such des<g ref="char:EOLhyphen"/>perate wretches, either in Church or Common-weal,
+<pb n="7" facs="tcp:32718:8"/>though they dig as deep as hell, to hide their damnable plots, yet let them know, that the eye of that all-seeing God, that abhors all false wayes, will find them out to their utter confusion in the end. Let them consider, what a wiser King than <hi>Ahasuerns</hi> saith, <hi>Prov.</hi> 19.5. <hi>A false mitness shall not go unpunished, and he that speaketh lies, shall not escape;</hi> but be punished according to that Royall Law of like for like, as you may see in <hi>Deut.</hi> 19.15 <hi>One witness shall not rise up against a man for any iniquity, or for a<g ref="char:EOLhyphen"/>ny sin, in any sin that he sinneth; at the mouth of two witnesses, or at the mouth of three witnesses shall the matter be established. If a false witness rise up against any man to testifie against him that which is wrong, Then both the men between whom the controversie is, shall stand before the Lord, before the Priests, and the Iudges which shall be in those dayes. And the Iudges shall make diligent inquisition; and behold, if the witness be a false witness, and hath testified falsly against his Brother: Then shall ye do unto him, as he had thought to have done unto his Brother. So shalt thou put the evill away from among you,</hi> &amp;c. A dangerous thing then (ye see) it was in old time to raise a false report, and to lay against our Brethren a false accusation; And can it be less dangerous now? yea, may some say, for that <hi>Lex talionis</hi> is abrogated by Christ, <hi>Matth.</hi> 5.38, <hi>&amp;c.</hi> Be not deceived, our Saviour there speaks of private revenge, and not of publick Justice; to shew how patient and loth we should be to revenge, not that we should put up all maner of injuries, &amp; evils what<g ref="char:EOLhyphen"/>soever, without seeking any remedy at all at the hands of Gods Ministers, who bear not the sword in vain. It is true indeed, this <hi>Lex talionis</hi> mentioned by <hi>Moses,</hi> takes not place against such as offend of ignorance, errour, or inconsideration; but against such as intentionally, ma<g ref="char:EOLhyphen"/>liciously, and determinatly do raise up false reports a<g ref="char:EOLhyphen"/>gainst their Neighbours, and swear them, which is a most grievous and insufferable sin. First, because it is a
+<pb n="8" facs="tcp:32718:9"/>wilfull contempt of Gods truth, and Religion it self. Secondly, because the party so offending doth not only shew, but withall execute the utmost of his malice and hatred, so far as he durst, against his Neighbour. Thirdly, because such false reports and accusations do directly tend to the utter overthrow of all common Justice, and humane society. And therefore <hi>aequissimum est</hi> (saith a learned <hi>Casuist</hi>) it seems most equall and just, that he who thus offends,<note place="margin">
+                  <hi>Amesius.</hi> If the e<g ref="char:EOLhyphen"/>quity of this law were ob<g ref="char:EOLhyphen"/>served, Ministers and others should not be so mo<g ref="char:EOLhyphen"/>lested, nor Magistrats so abused with false and un<g ref="char:EOLhyphen"/>necessary complaints as now they are.</note> should suffer the same punishment he thought by false accusation to bring upon the inocent. And that for these Reasons: First, because it is a Law, by the confesion of all, most just and equall, That he who sheddeth mans blood, by man should his blood be shed, <hi>Gen.</hi> 9.6. And truly he that by false and malicious reports, goes about to take away his Neighbours good name, doth as much as in him lies, endeavour to shed his Brothers blood. Secondly, because the justice of the punishment, which consists in its pro<g ref="char:EOLhyphen"/>portion to the fault, is in this law clearly declared. Last<g ref="char:EOLhyphen"/>ly, because the observation of this Law, <hi>Talionis,</hi> tends to this end. That those who plot such wickedness, and yet abhorre the punishment so grievous, might be ad<g ref="char:EOLhyphen"/>monished of the heynousness of the crime, and so deter<g ref="char:EOLhyphen"/>red from committing the same.</p>
+            <p>And now let all Slanderers that wittingly and wilfully raise up against their Neighbours false reports; Let all Judges and Censors, that either for malice, favour, or bribes condemn the innocent; In a word let all Malig<g ref="char:EOLhyphen"/>nants or malicious corrupters, either of Judge or Wit<g ref="char:EOLhyphen"/>nesses, sadly consider this, and withall tremble, for they being all guilty of the same crime, to the hurt of their Neighbour, are all involved in the same punishment of this Law, of like for like. And now that we may handle this point the more distinctly and satisfactorily, because it is (as it were) the <hi>Primum mobile,</hi> the first wheel that
+<pb n="6" facs="tcp:32718:9"/>moves, and moves all the rest. Let us enquire of these two things,</p>
+            <p n="1">1. What it is to raise a falsereport, or when a man is said to slander or make a false accusation against his neighbours.</p>
+            <p n="2">2. When, and how, it is lawfull to discover our Neighbours faults, and to inform against them to authori<g ref="char:EOLhyphen"/>ty. For the first, a man is said to slander, or to raise a false report, when he doth either in publick, or private, un<g ref="char:EOLhyphen"/>justly violate the fame or good name of his Neighbour; And this sin doth <hi>Recipere magìs &amp; minùs,</hi> it is greater or lesser according to the matter, and manner of the scan<g ref="char:EOLhyphen"/>dall, and according to the intention of the slanderer, and quality of the party slandered. Secondly, a man is said to slander or raise a false report, when without suffi<g ref="char:EOLhyphen"/>cient cause he discovers the secret faults of his Neigh<g ref="char:EOLhyphen"/>bour to his projudice and defamation, which in Charity he might and ought to have concealed. Thirdly he is said to slander his Neighbour, &amp;c. That without just cause doth tell abroad words or things tending to his Neighbours discredit, which he hath received only by tradition or hear say, without any certain testimony, or asseveration; when (I say) he doth this to make people believe it, or but vehemently suspect it. Again, when a man tells any thing thats false against his Neighbour, though he thinks it to be true, he slanders, and lyes a<g ref="char:EOLhyphen"/>gainst him materially. If he tells any thing that is true a<g ref="char:EOLhyphen"/>gainst his Neighbour, and yet think that it is false, or not true, he slanders and lyes against him formally. But if he tells any thing that is false against his Neighbour, and thinks with all that it is false, he slanders and lyes against him both formally and materially; and so he is a full and perfect false accuser.</p>
+            <p>Again (and I pray mark it) if our Neighbours faults may be amended by a private Brotherly admonition be<g ref="char:EOLhyphen"/>twixt party and party, and his crimes be not pernicious, and the end of accusation may be had without publick accusation, (in which case both Charity and Justice re<g ref="char:EOLhyphen"/>quire
+<pb n="10" facs="tcp:32718:10"/>our passing by an offence) then <hi>dicere Ecclesiae,</hi> to tell it to the Church, or to accuse him openly before Au<g ref="char:EOLhyphen"/>thority, is to slander him, or to make a false informati<g ref="char:EOLhyphen"/>on or accusation against him. If a man shall publish his Neighbours fault to the hurt of his soul, prejudice of his body, honour or estate, without just cause, he sins both against Justice and Charity, and so is guilty of false ac<g ref="char:EOLhyphen"/>casation.<note place="margin">Let such swearers and accusers note this.</note> In a word, he is an unjust accuser that shall calumniate, or lay that which is false to a mans charge, or that useth cunning, fraud, or deceit in his Oath or ac<g ref="char:EOLhyphen"/>cusaton,<note place="margin">Quacunque a te vero<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rum quis juret, Deus tamen qui <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nscientiae <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estis est, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a hoc ac<g ref="char:EOLhyphen"/>cipit, sicut i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le cui ju<g ref="char:EOLhyphen"/>ratur intel<g ref="char:EOLhyphen"/>l<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it,</note> or that without just cause shall make a tergi<g ref="char:EOLhyphen"/>versation, and desist from a just accusation. Thus you see in brief what it is to raise a false report, or to make a false accusation against our Neighbour.</p>
+            <p>Now for the other, When, and how, it is lawfull to discover our Neighbours faults, and to inform against him to Authority?</p>
+            <p>Although it be lawfull in silence to conceal some<g ref="char:EOLhyphen"/>times the truth, when neither piety nor charity require us to reveal it,<note place="margin">
+                  <hi>Isidor.</hi> de Summa bo<g ref="char:EOLhyphen"/>no, lib. <hi>1.</hi>
+               </note> as <hi>Math.</hi> 23.63. for the precept affirma<g ref="char:EOLhyphen"/>tive of telling the truth, binds not <hi>adsemper,</hi> at all times, but as the reason of circumstances well considered do re<g ref="char:EOLhyphen"/>quire; so also of concealing part of the truth, as you may see, <hi>Jer.</hi> 38.26. &amp;c. Yet when the secret damage to others, and danger to himself that commits it, we are bound in charity, not to conceal it, but to make it known to Au<g ref="char:EOLhyphen"/>thority for prevention. Also when his faulcs are publick either by the sentence of the Judge, or evidence of his notorious fact, then we may speak of them, and condemn them openly; for the offender hath then lost his right to a good name.</p>
+            <p>Again when wicked men by their dissembled iniquity, or seigned shew of vertue, or piety get unto them<g ref="char:EOLhyphen"/>selves a good name, to the manifest danger of others, then it is lawfull to inform against them, and to lay them o<g ref="char:EOLhyphen"/>pen. To conclude, there are many cases, in which it is
+<pb n="11" facs="tcp:32718:10"/>not only lawfull, but also necessary to inform against, and accuse offenders. As for instance, Officers are bound by their office, as often as occasion serves, to inform a<g ref="char:EOLhyphen"/>gainst, and accuse offenders, for the promotion of the publick good. Secondly, Each privat man ought to make offences and offenders known, which either im<g ref="char:EOLhyphen"/>mediatly hinder the publick good, or mediatly tend to the publick hurt, or do intollerably wrong any particu<g ref="char:EOLhyphen"/>lar innocent man, if such an evill cannot by any other means conveniently be avoyded; because, both by the law of nature, and charity, every one is bound either for the Common-wealth, or his Neighbours good, to lay out his best endeavours, when need requires, to remove or prevent such evills by timely information, and that too without any private Brotherly premonition; (I say) without any private premonition; for when the scandall is publick, so publick, that it cannot be taken off by a<g ref="char:EOLhyphen"/>ny privat correction, and when there is no hope to pre<g ref="char:EOLhyphen"/>vail in a privat way; or if the Common-wealths danger be such by that sin, that its safety by a privat admoniti<g ref="char:EOLhyphen"/>on cannot be defended or preserved, then without any more adoe, <hi>Dic Ecclesiae,</hi> tell it to the Church, complain of it to Authority; but withall be sure the main end and aym of thy complaint, be not any sinister end of thine own, but Gods Glory, and his Churches good, so shalt thou do good service to them both. And thus I have now done with the <hi>Informers,</hi> in these words, <hi>Thou shalt not raise a false report.</hi>
+            </p>
+            <p>I come now to speak unto you, that are Witnesses, in the words ensuing,</p>
+            <p>
+               <hi>Put not thine hand with the wicked, to be an unrighteous witness.</hi>
+            </p>
+            <p>I Cannot, I need not be large upon this, for what I have said already of false Reporters and accusers, may suf<g ref="char:EOLhyphen"/>fice also for false witnesses. If any desire to know more fully concerning this point, let them consult their Cate<g ref="char:EOLhyphen"/>chisms, especially <hi>Pareus</hi> his Exposition of the nineth Commandment, <hi>Thou shalt not bear false witness against thy
+<pb n="12" facs="tcp:32718:11"/>neighbour,</hi> where (as both he, and <hi>Ʋrsin</hi> that solid Divine do teach) is required, That we speak nothing that is false, nor any thing falsly, against our neighbour. That we do not calumniate any mans words, detract from any mans worth, or any way defame them. That we Judge not rashly of any, nor condemn any <hi>Indictâ causâ,</hi> before the matter is heard. That we flee, and keep our selves cleer with all possible care, from all lies, especially, per<g ref="char:EOLhyphen"/>nicious ones, and from all deceit. In Judgements and all other matters, that we follow, and keep close to the truth. That we defend, preserve, and advance as much as in us lies, the just fame, good name, and welfare of our Neighbour. The truth of God, and our Neighbours good (you see) are the main end, aym, and scope of this Commandement; And therefore the Devill and wicked men (his factors) do lye and bear false witness, even when they speak the truth; because they are neither <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Lover neither of truth nor true men, but false accusers of the Brethren. If they speak at any time the truth, it is <hi>animo fallendi,</hi> with an intention to deceive, not to glorifie God, or to doe men any good. <hi>Tut not thy hand with the wicked, &amp;c.</hi> As we are bound to witness the truth, when we are lawfully called thereunto by the Magistrat, or freely of our own accords, though we be not constrained by Authority, if there be any grievous da<g ref="char:EOLhyphen"/>mage, or danger like to fall upon the publick-weal, or any privat innocent man, which otherwise cannot be a<g ref="char:EOLhyphen"/>voyed or prevented, <hi>Pro.</hi> 24.11. So we must have a great care when we come to witness, that neither for fear, not favour, nor any other sinister end, we bear false wit<g ref="char:EOLhyphen"/>ness against our brother. Perjury is a fearfull sin; to con<g ref="char:EOLhyphen"/>temn God, and Religion, to renounce thy Saviour and all the means of salvation, to overthrow and confound, as much as in thee lies, all common justice and humane society, is the very height of impiety, and such a sin as this, alas! what can expiate? I beseech you turn to <hi>Ma<g ref="char:EOLhyphen"/>lacbi</hi> 3.5. read there and tremble, or at leastwise con<g ref="char:EOLhyphen"/>sider
+<pb n="13" facs="tcp:32718:11"/>seriously and sadly of it, before you lay your hands upon the Book; I will come near to you to Judgment, and will be a swift witness against false swearers &amp;c. and such as fear not me saith the Lord of Hosts.</p>
+            <p>I shall now conclude this point with of <hi>St. Aug.</hi> in his Sermon, on the beheading of <hi>John Baptist, Ille qui ho<g ref="char:EOLhyphen"/>minem provocat ad jurationem, &amp;c.</hi> He that witting<g ref="char:EOLhyphen"/>ly and wilfully provokes a man to take an Oath falsely, <hi>Homicidam superat,</hi> is worse than a man<g ref="char:EOLhyphen"/>slayer, for the one kills but the body, the other murders the soul, nay, two soules at once, both the false wit<g ref="char:EOLhyphen"/>nesses, and his own. I would to God such (if such there be) that closely and secretly (as if they had no hand in the matter) set poor ignorant men (or such as they can<g ref="char:EOLhyphen"/>not but know to be desperate wretches) on work to in<g ref="char:EOLhyphen"/>form, and do animate them on to take false Oathes a<g ref="char:EOLhyphen"/>gainst their Pastors, and other innocent Brethren, to bring about their own most base and corrupt ends, would before it be too late, consider better of the words of this good old Father, Lest they bring both the guilt and punishment of this so horrid a crime, upon their own wretched souls; which no pretence of Gods glory, or the Churches good, will ever be able to palliate or wipe off.</p>
+            <p>A word now or two beloved to you <hi>The Reverend Judges and Censors</hi> of the matters, and but a word, for that to the wise is sufficient.</p>
+            <p>
+               <hi>You shall not follow a multitude to do evill; neither shall you speak in a Cause to decline after many to wrest Judgment.</hi>
+            </p>
+            <p>There are some (saith one) that being shallow them<g ref="char:EOLhyphen"/>selves,<note place="margin">Ignoratia Judi is plestantq est cala ni<g ref="char:EOLhyphen"/>tas inno<g ref="char:EOLhyphen"/>centis. <hi>Aug</hi> de Ci. Dei. lib. <hi>29.</hi>
+               </note> do sail by anothers compass, and side with the most, though not the best, to the prejudice of the truth, and the wresting of Judgment against the innocent. But I hope you are all so wel qualified, as you need not fear the danger that may follow upon such a want, such a sin. I cannot, I need not tell you your office in every point, yet let me crave leave to remember you of your duty, in this one in my Text, <hi>viz.</hi> That you wrest not Judgement.</p>
+            <pb n="14" facs="tcp:32718:12"/>
+            <p> Now Judgment is wrested many wayes; I shall instance but in some. First, When Judges proceed by wicked Lawes, repugnant to the Lawes of God; see <hi>Isaiah</hi> 10.1. The Judgment of such is vain; <hi>omnium Legum est inanis censura, nisi Divinae legis imaginem gerat,</hi> saith St. Aug. <hi>lib.</hi> 9. <hi>de Civit. Dei.</hi> Judges by their offices are the Ministers of God, <hi>Custodesque Decalogi,</hi> and the Keepers of his Law, <hi>Dent.</hi> 1.17. and therefore according to that, and not con<g ref="char:EOLhyphen"/>trary unto it, they ought to proceed.</p>
+            <p>Secondly, Judgment is wrested by a corrupt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, respect of Persons, when (as the Hebrews say) Judges look upon a mans face (i) regard the person of a man, for his honour, power, riches, friendship and the like, more than the cause; when they condemn the innocent to sa<g ref="char:EOLhyphen"/>tisfie the desire of the malicious Accuser, either for fear, favour, or filthy lucre, or when they favour and acquit the guilty for the like sinister ends, at the request of some <hi>Agesilaus</hi> who wrote thus to the Judge, in behalf of his friend, If this man be not guilty, <hi>pro Justitia,</hi> but if other<g ref="char:EOLhyphen"/>wise, <hi>proamicitia absolve.</hi> But this is a fearfull sin, though too common, beware of it, for the Judge of Heaven and Earth abhors it, and severely forbids it, <hi>Jam.</hi> 2.9. <hi>Deut.</hi> 1.17. <hi>Ye shall not respect persons in judgment, but ye shall hear the small as well as the great, you shall not be afraid of the face of man, for the judgment is Gods.</hi> Consider beloved, that Judges, they repres<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt the person of God, &amp; therefore like God, they should be free from passion &amp; personal acceptation.</p>
+            <p>Lastly, many wrest Judgment by tricks and quillits, shifts, demurs, and delayes, for bribes or the like base ends. A gift saith <hi>Salomon</hi> blindeth the eyes of the wise. Such as will not see to do justice, it is just they should never see to find mercy.</p>
+            <p>Justice in ancient time was painted without Eyes and Hands; sure it was, to put Judges in minde, neither to respect persons, nor to finger bribes.</p>
+            <p>O beloved! Let us keep innocency and do the thing that is right, for that shall bring a man peace at the last; when
+<pb n="15" facs="tcp:32718:12"/>all the power, and friends, and means of this world (had a man them all at command) shall stand him in no stead.</p>
+            <p>I shall now advise you, but in two or three things more, and then have done that you may begin. First, meddle not with the Oath <hi>ex officio;</hi> because it hath been both in the High Commission, and hellish Inquisition, the impulsive cause of much desperate per<g ref="char:EOLhyphen"/>jury. Neither is it (as I conceive) according to Law, that a man should be forced to swear against, or accuse and condemn himself.</p>
+            <p>Secondly, be not too Rigid,<note place="margin">Hoc loco nihil aliud Praecipi existimo, nisi ut ea facta quae dubium est quo animo siant. in meliorem partem in<g ref="char:EOLhyphen"/>terprete<g ref="char:EOLhyphen"/>mur. <hi>Aug.</hi> in fer in maout. <hi>Moat.</hi> 7.</note> or inquisitive after secret or doubtfull things, beware of censuring such; Hear what Christ himself saith in such a case, <hi>Judge not,</hi> Matth. 7.1. Judge nothing saith the Apostle (also) before the time, 1 <hi>Cor.</hi> 4.5. And you know it is a Rule, <hi>De occultis, non judicat Ecclesia;</hi> for secret things belong not unto man, but onely unto God, <hi>Dent.</hi> 29.29. Neither let light su<g ref="char:EOLhyphen"/>spicions, or bare informations onely, be any sufficient grounds for your proceedings in Judgement. But cen<g ref="char:EOLhyphen"/>fure <hi>secundum allegata, &amp; probata,</hi> unless you your selves know for certain, that what is alleged, and sworn, is false; And then it were more safe to cesert your places, than to pass sentence against your consciences.</p>
+            <p>And now let me be bold to make one motion in behalf of our Spirituall brethren, who perhaps have been over<g ref="char:EOLhyphen"/>taken by some temptation, or are fallen through infir<g ref="char:EOLhyphen"/>mity; at which their spitefull prosecutors, or persecu<g ref="char:EOLhyphen"/>tors rather, do greedily take advantage to aggravate them even to enormities for the accomplishment of their own vile ends. It is this; That you would be pleased to tender their persons and callings; and to deal with them according to the Apostles rule in such a case,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>Gal.</hi> 6.1. Even to restore such with the Spirit of meekness, consi<g ref="char:EOLhyphen"/>dering your selves, least ye be also tempted. Or let the charge against them be what it will, yet receive it not, under the precise number of three, or two competent witnesses at the least, 1 <hi>Tim.</hi> 5.19. For it is a dangerous
+<pb n="16" facs="tcp:32718:13"/>thing to receive, as well as to raise a false accusation, or an accusation falsly, As the first words of my text import.</p>
+            <p>But if the parties accused be such as are incorrigible, and hate to be reformed, then (I conceive) they have lost their right to the preaching of the word of God, <hi>Psal.</hi> 50.16, <hi>&amp;c.</hi> and are become insufferable evils, for whom no good man can dare to plead, Against such <hi>Currat Lex, ne pereat grex,</hi> let the Law proceed, least in sparing the bad, ye should endanger the precious souls of the people of God.</p>
+            <p>Lastly, yet, because in the exercise of mercy we come neerest unto God; Nay, because the very Law it self of God is charity;<note place="margin">Lex Dei Charitas est. <hi>Aug.</hi> in lib.de spirit<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Aug. ae vec. Reli.</note> In your Judgements therefore, let me re<g ref="char:EOLhyphen"/>member you to think on Mercy. Not to Judge <hi>secundum leteram,</hi> according to the bare letter, and rigour of the Law, for so, <hi>summum jus estsumma injuria,</hi> but <hi>secundum</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the equity of the Law, the principall end and aim, both of the Law, and Law-giver himself. Laws saith <hi>Ʋlpranu,</hi> were invented and ordained, not for the destruction of men, so much as for the reformation of their offences. Beloved, I desire not, but that ye should be zealous for the Lord in correcting sin, yea, that your zeal may be even exemplar, and as transcendently glori<g ref="char:EOLhyphen"/>ous as Jehu's, 2 <hi>Reg.</hi> 10.16. yet withall forget not to be mercifull; <hi>David</hi> sang of both, and I hope you will now exercise both; It is lafer erring on the right hand than the left,<note place="margin">Nullum emnip tenti Deotale est sacripicial: quale est zelus ani<g ref="char:EOLhyphen"/>marum <hi>Greg.</hi> in <hi>Ezex Ho 12.</hi>
+               </note> (you know my meaning) to exceed in mercy, than severity, But howsoever, be sure to beware of cruelty, and think of Saint <hi>James</hi> his words, when you are a Judging, <hi>Jam.</hi> 2.13. <hi>The unmercifull shall have Judg<g ref="char:EOLhyphen"/>ment without mercy.</hi> But withall again forget not my Text, That you decline not after many to wrest Judgment.</p>
+            <p>
+               <hi>The Supream Judge of all, from whose Triburall can be none appeal, his Caveat is the Judges in</hi> Israel, <hi>shall be the clesare of my charge to you all, in</hi> 2 Chro. 19.6. <hi>Take heed what ye do, for yee Judge not for man, but for the Lord, who is with you in the Judgement; which that you may to his Glory, his Churches good, and the safety of your own soules, the Lord for his mercies sake grant. To whom be ad honour and glory world without end.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32718:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
